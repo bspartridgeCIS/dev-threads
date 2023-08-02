@@ -452,5 +452,16 @@
       "machine learning",
       "artificial intelligence"
     ]
-  }
+  },
+  {
+    "username": "bspartridgecis",
+    "topics": [
+      "HealthTech",
+      "AI",
+      "Computer Vision",
+      "FHIR Integration",
+      "Virtual Care",
+      "Device Integration"
+    ]
+  },
 ]
